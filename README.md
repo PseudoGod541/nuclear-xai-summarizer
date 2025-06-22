@@ -32,7 +32,7 @@ Investigation revealed that the failure was due to aged circuit components.
 ## 📋 Sample Output
 
 ```
-On June 5, 2024, Unit 3 experienced a temporary loss of power due to a failed generator control module. No radiation was released. Investigation revealed that the failure was due to aged circuit components.
+On June 5, 2024, Unit 3 experienced a temporary loss of power due to a failed generator control module. No radiation was released. Full power was restored within 3 hours..
 
 ```
 
